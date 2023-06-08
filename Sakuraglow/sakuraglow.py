@@ -42,9 +42,9 @@ def glow():
 Label (text="Sakuraglow", fg="orchid1", bg="light blue", font="Consolas 50").pack()
 
 # Add Image
-glow_btn = PhotoImage(file="C:\\Users\\cudden\\Desktop\\Projects\\python_programs\\images\\button_enable-glow.png")
-about_btn = PhotoImage(file="C:\\Users\\cudden\\Desktop\\Projects\\python_programs\\images\\button_about.png")
-quit_button = PhotoImage(file="C:\\Users\\cudden\\Desktop\\Projects\\python_programs\\images\\button_quit.png")
+glow_btn = PhotoImage(file="images\\button_enable-glow.png")
+about_btn = PhotoImage(file="images\\button_about.png")
+quit_button = PhotoImage(file="images\\button_quit.png")
 
 # gui
 class gui():
